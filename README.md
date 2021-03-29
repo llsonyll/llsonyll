@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llsonyll
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning about Flutter and Dart
-- 💞️ I’m looking to collaborate on movile apps proyects
+- 👀 I’m working in software development, currently on Movile Development
+- 🌱 I’m currently getting better at Flutter and Dart
+- 💞️ I’m looking for a great job being a competitive developer
 - 📫 How to reach me sony_s07@hotmail.es
 
 <!---
