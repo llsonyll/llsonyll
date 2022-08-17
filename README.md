@@ -31,3 +31,28 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/josep-jairo-rojas-baca-34975a1bb" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 </div>
+
+## 🚀 My Most Recent Project:
+
+<p align="center">
+<a href="https://github.com/llsonyll/social_network" target="_blank">
+  &nbsp
+  <img aling="center" src="https://raw.githubusercontent.com/laguado415/laguado415/main/assets/images/Socialn.png" width="180" height="180"/>
+  &nbsp
+  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png" width="180" height="180"/>
+  &nbsp
+  <img aling="center" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png" width="180" height="180"/>
+  &nbsp
+</a>
+</br>
+</p>
+
+### [Social Network](https://www.socialn.me)
+
+Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
+
+#### 🛠 Tecnologías usadas: 
+React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express, Tailwind CSS, Passport, Json Web Token
+
+#### 👨‍💻Mi principal aporte fue:
+Diseño de UI y UX, creacion, implementacion y organizacion de componentes, organizacion del projecto, nodemailer, integración y uso de tailwind css.
