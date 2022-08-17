@@ -49,10 +49,10 @@ You can click the Preview link to take a look at your changes.
 
 ### [Social Network](https://www.socialn.me)
 
-Red social para interactuar con otras personas a través de publicaciones, comentarios y reacciones, chats y videollamadas.
+A platform similar to twitter or facebook that allows you to interact with people sharing post, comment or react to them, also you can use live-chat or video-call without pay a penny. Also you can get a Premium subscription to get only-premium features.
 
-#### 🛠 Tecnologías usadas: 
+#### 🛠 Technologies: 
 React, Redux Toolkit, Socket.io, Typescript, MongoDB, Mongoose, Node js, Express, Tailwind CSS, Passport, Json Web Token
 
-#### 👨‍💻Mi principal aporte fue:
-Diseño de UI y UX, creacion, implementacion y organizacion de componentes, organizacion del projecto, nodemailer, integración y uso de tailwind css.
+#### 👨‍💻As a part of a 7 devs group, my contribution was:
+UI/UX Design , building components, Project Managing, Nodemailer, TailwindCSS integration and use and more stuff.
